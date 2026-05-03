@@ -36,5 +36,4 @@ float cal_average(void)
 {
     float average = (float) sum_grade / grades;
     printf("Grade's average: %.2f\n", average);
-    return 0;
 }
