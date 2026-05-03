@@ -57,5 +57,7 @@ dkms.conf
 
 # Others
 average
+.vscode/
+average-grade
 
 # End of https://www.toptal.com/developers/gitignore/api/c
