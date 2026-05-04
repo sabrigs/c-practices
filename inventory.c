@@ -48,7 +48,6 @@ int main(void)
     {
         printf("The stock cash of '%s' is bigger than '%s'.\n", products_list[0].name, products_list[1].name);
     }
-    
     if (products_list[0].stock_cash < products_list[1].stock_cash)
     {
         printf("The stock cash of '%s' is lower than '%s'.\n", products_list[0].name, products_list[1].name);
